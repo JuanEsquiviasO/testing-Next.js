@@ -1,0 +1,15 @@
+{
+  "name": "test_next",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "keywords": [],
+  "author": "@juanesquiviaso",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
